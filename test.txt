@@ -1,2 +1,3 @@
 Hello GitHub!!!
 Test with Git!!!
+Conflict test with git - clone 2
