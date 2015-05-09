@@ -1,3 +1,6 @@
 Hello GitHub!!!
 Test with Git!!!
+Conflict test with git - clone 1!!!
 Conflict test with git - clone 2
+
+
